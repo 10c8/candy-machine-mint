@@ -1,3 +1,5 @@
+@import url(https://db.onlinewebfonts.com/c/27c8b64c285e64ed247c83fd3465e8c5?family=Circular+Bold);
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,7 +7,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #303030;
+  background-color: #FFF0DE;
   color: #FFFFFF;
 }
 
